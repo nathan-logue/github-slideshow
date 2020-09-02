@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "textual and contexual advertising"
+title: "textual/contexual ads"
 ---
 > Text-based ads
 
