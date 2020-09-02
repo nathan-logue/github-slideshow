@@ -2,19 +2,9 @@
 layout: slide
 title: "Mobile Advertising"
 ---
-> paid search 
+> paid search, display Ads, post-call advertising, Full-screen takeovers, messaging, location based
 
-> display Ads
-
-> post-call advertising
-
-> Full-screen takeovers
-
-> messaging
-
-> location based
-
-> video
+>video
 
 > voice
 
