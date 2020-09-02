@@ -1,6 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "textual and contexual advertising"
 ---
-hi
-Use the left arrow to go back!
+> Text-based ads
+
+> Paid search ads
+
+> Contextual ads
