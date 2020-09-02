@@ -1,6 +1,15 @@
 ---
 layout: slide
-title: "Welcome to our fourth slide!"
+title: "paid search building blocks"
 ---
-hi
-Use the left arrow to go back!
+> keywords
+
+> ads
+
+> bids
+
+> landing page
+
+> conversions
+
+> process
