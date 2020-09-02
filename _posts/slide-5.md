@@ -1,0 +1,21 @@
+---
+layout: slide
+title: "Mobile Advertising"
+---
+> paid search 
+
+> display Ads
+
+> post-call advertising
+
+> Full-screen takeovers
+
+> messaging
+
+> location based
+
+> video
+
+> voice
+
+> apps
