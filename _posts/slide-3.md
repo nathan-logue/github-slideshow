@@ -1,6 +1,7 @@
 ---
 layout: slide
-title: "Welcome to our third slide!"
+title: "Viral Market"
 ---
-hi
-Use the left arrow to go back!
+> going viral on the internet for marketing 
+> best form of marketing but can be difficult to achieve 
+
