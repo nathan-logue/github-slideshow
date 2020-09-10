@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "textual/contexual ads"
+title: "The start up of social medias"
 ---
-> Text-based ads
+> 2003 linkedIn was created
 
-> Paid search ads
+> 2004 Gmail and facebook were created
 
-> Contextual ads
+> 2005 youtube was created 
